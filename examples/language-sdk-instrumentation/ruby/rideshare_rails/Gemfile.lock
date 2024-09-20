@@ -109,7 +109,7 @@ GEM
       timeout
     net-smtp (0.4.0.1)
       net-protocol
-    nio4r (2.7.0)
+    nio4r (2.7.3)
     nokogiri (1.16.2)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -174,7 +174,7 @@ GEM
       opentelemetry-api (~> 1.0)
     psych (5.1.2)
       stringio
-    puma (5.6.8)
+    puma (5.6.9)
       nio4r (~> 2.0)
     pyroscope (0.5.12)
       ffi
@@ -263,7 +263,7 @@ DEPENDENCIES
   opentelemetry-exporter-jaeger (~> 0.22.0)
   opentelemetry-instrumentation-rails
   opentelemetry-sdk (~> 1.2.0)
-  puma (~> 5.6)
+  puma (~> 5.6, >= 5.6.9)
   pyroscope (= 0.5.12)
   pyroscope-otel (~> 0.1.1)
   rails (~> 7.0.8)
@@ -275,4 +275,4 @@ RUBY VERSION
    ruby 3.2.2p53
 
 BUNDLED WITH
-   2.4.10
+   2.4.6
