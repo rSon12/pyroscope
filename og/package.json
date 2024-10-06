@@ -202,7 +202,7 @@
     "lodash.map": "^4.6.0",
     "mini-css-extract-plugin": "^2.2.0",
     "moment": "^2.27.0",
-    "msw": "^0.36.3",
+    "msw": "^2.0.0",
     "node-fetch": "^2.6.6",
     "normalize.css": "^8.0.1",
     "postcss-browser-reporter": "^0.6.0",
