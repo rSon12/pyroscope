@@ -12,7 +12,7 @@
   "dependencies": {
     "@pyroscope/nodejs": "v0.3.11",
     "express": "^4.19.2",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.1"
   },
   "resolutions": {
     "protobufjs": "^7.2.5",
