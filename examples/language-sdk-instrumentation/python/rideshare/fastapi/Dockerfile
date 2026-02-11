@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.14.3
 
 RUN pip3 install fastapi pyroscope-io==0.8.7 uvicorn[standard]
 
