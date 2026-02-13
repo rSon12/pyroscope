@@ -10,8 +10,8 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "@pyroscope/nodejs": "v0.3.11",
-    "express": "^4.19.2",
+    "@pyroscope/nodejs": "0.4.4",
+    "express": "^4.22.0",
     "morgan": "^1.10.0"
   },
   "resolutions": {
